@@ -1,0 +1,23 @@
+# Dependencias (Node.js)
+node_modules/
+
+# Registros
+*.log
+npm-debug.log*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores e IDE
+.vscode/
+.idea/
+*.swp
+
+# Caché local de Wrangler (Cloudflare)
+.wrangler/
+
+# Variables de entorno
+.env
+.env.*
